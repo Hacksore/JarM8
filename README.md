@@ -1,0 +1,1 @@
+A minecraft jar manager written in java.
